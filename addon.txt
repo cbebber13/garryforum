@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+	"name"		"gForum"
+	"version"	""
+	"up_date"	""
+	"author_name"	"Clark(Aide)"
+	"author_email"	""
+	"author_url"	""
+	
+	"info"		"A addon that allows players to register on a forum via in-game. Which then links their forum account with their steam account."
+}
